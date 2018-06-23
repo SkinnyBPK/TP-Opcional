@@ -1,0 +1,19 @@
+{
+  "name": "tp-opcional",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian",
+  "license": "ISC",
+  "description": "Opcional Motos",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkinnyBPK/TP-Opcional.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SkinnyBPK/TP-Opcional/issues"
+  },
+  "homepage": "https://github.com/SkinnyBPK/TP-Opcional#readme"
+}
