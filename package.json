@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SkinnyBPK/TP-Opcional/issues"
   },
-  "homepage": "https://github.com/SkinnyBPK/TP-Opcional#readme"
+  "homepage": "https://github.com/SkinnyBPK/TP-Opcional#readme",
+  "dependencies": {
+    "handlebars": "^4.0.11"
+  }
 }
